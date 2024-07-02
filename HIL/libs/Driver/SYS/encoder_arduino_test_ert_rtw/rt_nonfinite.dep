@@ -1,0 +1,14 @@
+rt_nonfinite.o: \
+ C:/Users/Ahmed/Desktop/libs/Driver/SYS/encoder_arduino_test_ert_rtw/rt_nonfinite.c \
+ C:/Users/Ahmed/Desktop/libs/Driver/SYS/encoder_arduino_test_ert_rtw/rtGetNaN.h \
+ C:/Users/Ahmed/Desktop/libs/Driver/SYS/encoder_arduino_test_ert_rtw/rt_nonfinite.h \
+ C:/Users/Ahmed/Desktop/libs/Driver/SYS/encoder_arduino_test_ert_rtw/rtwtypes.h \
+ C:/Users/Ahmed/Desktop/libs/Driver/SYS/encoder_arduino_test_ert_rtw/rtGetInf.h
+
+C:/Users/Ahmed/Desktop/libs/Driver/SYS/encoder_arduino_test_ert_rtw/rtGetNaN.h:
+
+C:/Users/Ahmed/Desktop/libs/Driver/SYS/encoder_arduino_test_ert_rtw/rt_nonfinite.h:
+
+C:/Users/Ahmed/Desktop/libs/Driver/SYS/encoder_arduino_test_ert_rtw/rtwtypes.h:
+
+C:/Users/Ahmed/Desktop/libs/Driver/SYS/encoder_arduino_test_ert_rtw/rtGetInf.h:
